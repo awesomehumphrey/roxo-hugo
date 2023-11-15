@@ -11,4 +11,4 @@ min_version = "0.58.0"
 [author]
   name = "Static Mania"
   homepage = "https://staticmania.com/"
-echo "theme = 'roxo-hugo'" >> hugo.toml
+#echo "theme = 'roxo-hugo'" >> hugo.toml
